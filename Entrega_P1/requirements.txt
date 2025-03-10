@@ -1,0 +1,8 @@
+numpy
+matplotlib
+kneed
+
+# En caso de error, con las dependecias de alguna libreria, se puede instalar una version anterior de la libreria con el siguiente comando:
+# pip uninstall numpy -y
+# pip install numpy<2
+# pip install --force-reinstall matplotlib
